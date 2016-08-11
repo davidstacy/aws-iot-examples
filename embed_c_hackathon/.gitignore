@@ -1,0 +1,4 @@
+scripts/keys.csv
+certs/*
+endpoint.txt
+shadow_console_echo
